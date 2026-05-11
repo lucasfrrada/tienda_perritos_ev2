@@ -1,6 +1,8 @@
 /*
  Lucas Elias Ferrada Urzua
  Evaluacion 2
+ 
+ TEST CICD
 */
 
 CREATE DATABASE IF NOT EXISTS tienda_perritos;
