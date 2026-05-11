@@ -2,7 +2,7 @@
  Lucas Elias Ferrada Urzua
  Evaluacion 2
  
- TEST CICD
+ TEST CICD V2
 */
 
 CREATE DATABASE IF NOT EXISTS tienda_perritos;
